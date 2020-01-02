@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\bin\Debug\netstandard2.0\Storage.Contracts.deps.json
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\bin\Debug\netstandard2.0\Storage.Contracts.dll
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\bin\Debug\netstandard2.0\Storage.Contracts.pdb
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\obj\Debug\netstandard2.0\Storage.Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\obj\Debug\netstandard2.0\Storage.Contracts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\obj\Debug\netstandard2.0\Storage.Contracts.dll
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\obj\Debug\netstandard2.0\Storage.Contracts.pdb
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.Contracts\obj\Debug\netstandard2.0\Storage.Contracts.csprojAssemblyReference.cache

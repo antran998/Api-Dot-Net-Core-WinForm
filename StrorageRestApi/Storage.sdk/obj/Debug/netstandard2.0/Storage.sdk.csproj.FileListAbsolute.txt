@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\bin\Debug\netstandard2.0\Storage.sdk.deps.json
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\bin\Debug\netstandard2.0\Storage.sdk.dll
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\bin\Debug\netstandard2.0\Storage.sdk.pdb
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\bin\Debug\netstandard2.0\Storage.Contracts.dll
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\bin\Debug\netstandard2.0\Storage.Contracts.pdb
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.csproj.CopyComplete
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.dll
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.pdb
+C:\Users\Admin\source\repos\StrorageRestApi\Storage.sdk\obj\Debug\netstandard2.0\Storage.sdk.csprojAssemblyReference.cache
